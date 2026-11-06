@@ -1,8 +1,6 @@
 # 🧑‍💼 Employee Attrition Analysis : O-Zone Telecom
 
-
-
-## 🧑‍💼 Employee Attrition Analysis – O-Zone Telecom
+### Executive Summary:
 
 This project analyzes employee attrition and well-being at O-Zone Telecom to identify the main factors influencing turnover and absenteeism. Using HR data and machine learning techniques in Python, the analysis combines Exploratory Data Analysis, PCA, K-means clustering, and Logistic Regression. Findings highlight strong relationships between attrition, working conditions, job satisfaction, and career progression opportunities. Based on these findings, I recommend the following actions to improve employee retention:
 
